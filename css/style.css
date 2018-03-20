@@ -138,6 +138,7 @@ img {
 
 footer {
     font-family: monospace;
+    font-size: 20%; 
     background: olive;
     padding: 5%;
     margin: 0;
