@@ -5,7 +5,7 @@ body {
     height: 100%;
     font-family: "arial";
     box-sizing: border-box;
-      margin-left: 2%; 
+    margin-left: 2%;
 }
 
 /*MENU*/
@@ -14,9 +14,7 @@ nav {
     float: right;
     width: 100%;
     background: black;
-  
     margin-right: -2%;
-    
 }
 
 /*MENU TEKST*/
@@ -40,7 +38,6 @@ li:hover a {
     color: olive;
 }
 
-
 /*MENU LISTE*/
 
 nav li a {
@@ -50,12 +47,13 @@ nav li a {
     text-decoration: none;
     margin: 2%;
 }
-
+ #logo {
+        margin-left: 2%;
+    }
 /*OVERSKRIFTER INDEX*/
 
 h1 {
     margin-left: 2%;
-
 }
 
 /*OVERSKRIFTER INFO + BOOK*/
@@ -88,8 +86,8 @@ img {
     text-align: justify;
     padding: 5%;
     margin-left: 2%;
-    margin-right: -2%; 
-
+    margin-right: -2%;
+    margin-bottom: 2%;
 }
 
 .fly-container {
@@ -97,7 +95,6 @@ img {
     padding: 5%;
     margin: 10%;
     text-align: justify;
-
 }
 
 .hotel-container {
@@ -128,7 +125,7 @@ img {
 .vietnam-container {
     background-color: sandybrown;
     padding: 5%;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 5%;
 }
 
