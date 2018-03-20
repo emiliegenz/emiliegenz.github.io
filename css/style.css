@@ -81,10 +81,10 @@ img {
 
 .info-container {
     background: lightblue;
-    padding: 5%;
     text-align: justify;
-    margin: 2%;
-    margin-right: 10%
+    padding: 5%;
+    margin-left: 2%;
+    margin-right: -2%; 
 }
 
 .fly-container {
